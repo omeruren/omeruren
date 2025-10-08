@@ -1,6 +1,6 @@
 <br>Hello World, I'm Ömer Üren! 👋<br>
 
-<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&vCenter=true&pause=1000&width=435&lines=FullStack+.NET+Developer)](https://git.io/typing-svg)<br>
+<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&vCenter=true&width=435&lines=FullStack+.NET+Developer)](https://git.io/typing-svg)<br>
 # 💫 About Me:
 I'm a passionate ASP.NET Core Developer with experience in building scalable and efficient applications. My expertise lies in backend development, REST APIs,<br><br>🌱 I’m constantly learning new technologies and tools in the .NET ecosystem.<br>🔭 I'm looking to collaborate on open-source projects related to .NET Core and modern web development.
 
